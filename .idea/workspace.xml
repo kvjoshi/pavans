@@ -1,7 +1,219 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5ec8c12-c85d-4bc6-a9b1-196e9ea77e42" name="Default Changelist" comment="" />
+    <list default="true" id="e5ec8c12-c85d-4bc6-a9b1-196e9ea77e42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/serv/100061907_1540820229430655_6471656970720903168_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/serv/AstroLODU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/serv/sec_campus.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/serv/ss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/serv/ss1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/mailchimp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/smtp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/templates/confirmation_to_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/templates/email_to_admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/drewm/MailChimp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/load_template_admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/load_template_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/recaptcha_v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/sanitize_post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/save_csv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/send_smtp_admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/send_smtp_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/include/text_content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/mailchimp_subscribe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/mediumrare/smtp_email.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Attachment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/ByteStream/AbstractFilterableInputStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/ByteStream/ArrayByteStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/ByteStream/FileByteStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/ByteStream/TemporaryFileByteStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterReader/GenericFixedWidthReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterReader/UsAsciiReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterReader/Utf8Reader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterReaderFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterStream/ArrayCharacterStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/CharacterStream/NgCharacterStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/ConfigurableSpool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/DependencyContainer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/DependencyException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/EmbeddedFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Encoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Encoder/Base64Encoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Encoder/QpEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Encoder/Rfc2231Encoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Encoding.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/CommandEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/CommandListener.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/Event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/EventDispatcher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/EventListener.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/EventObject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/ResponseEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/ResponseListener.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/SendEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/SendListener.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/SimpleEventDispatcher.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/TransportChangeEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/TransportChangeListener.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/TransportExceptionEvent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Events/TransportExceptionListener.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/FailoverTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/FileSpool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/FileStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Filterable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/InputByteStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/IoException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/KeyCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/KeyCache/ArrayKeyCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/KeyCache/DiskKeyCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/KeyCache/KeyCacheInputStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/KeyCache/NullKeyCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/LoadBalancedTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/MailTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mailer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mailer/ArrayRecipientIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mailer/RecipientIterator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/MemorySpool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Attachment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/CharsetObserver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/QpContentEncoderProxy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/RawContentEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/EmbeddedFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/EncodingObserver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Grammar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/HeaderEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/HeaderFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/HeaderSet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Headers/AbstractHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Headers/DateHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Headers/IdentificationHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Headers/MailboxHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Headers/OpenDKIMHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Headers/ParameterizedHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Headers/PathHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Headers/UnstructuredHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/Message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/MimeEntity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/MimePart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/ParameterizedHeader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/SimpleHeaderFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/SimpleHeaderSet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/SimpleMessage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Mime/SimpleMimeEntity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/MimePart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/NullTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/OutputByteStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/AntiFloodPlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/BandwidthMonitorPlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Decorator/Replacements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/DecoratorPlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/ImpersonatePlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Logger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/LoggerPlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Loggers/ArrayLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Loggers/EchoLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/MessageLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Pop/Pop3Connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Pop/Pop3Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/PopBeforeSmtpPlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/RedirectingPlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Reporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/ReporterPlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Reporters/HitReporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Reporters/HtmlReporter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Sleeper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/ThrottlerPlugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Plugins/Timer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Preferences.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/ReplacementFilterFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/RfcComplianceException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/SendmailTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/SignedMessage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Signer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Signers/BodySigner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Signers/DKIMSigner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Signers/DomainKeySigner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Signers/HeaderSigner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Signers/OpenDKIMSigner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Signers/SMimeSigner.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/SmtpTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Spool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/SpoolTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/StreamFilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/StreamFilters/StringReplacementFilter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/StreamFilters/StringReplacementFilterFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/SwiftException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/AbstractSmtpTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/EsmtpHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/EsmtpTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/FailoverTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/IoBuffer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/LoadBalancedTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/MailInvoker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/MailTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/NullTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/SendmailTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/SimpleMailInvoker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/SmtpAgent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/SpoolTransport.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Transport/StreamBuffer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/TransportException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/classes/Swift/Validate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/dependency_maps/cache_deps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/dependency_maps/message_deps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/dependency_maps/mime_deps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/dependency_maps/transport_deps.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/mime_types.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/preferences.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/swift_init.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/swift_required.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/swift_required_pear.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forms/vendor/swiftmailer/swiftmailer_generate_mimes_config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-company.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-company.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +221,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -22,14 +237,21 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1guWLu4MtPVTqe2pmx7S5kmxyxF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,22 +282,40 @@
       <workItem from="1598974124796" duration="5601000" />
       <workItem from="1599047042509" duration="19000" />
       <workItem from="1599133889054" duration="5057000" />
-      <workItem from="1599467050725" duration="38000" />
+      <workItem from="1599467050725" duration="1587000" />
+      <workItem from="1599480021484" duration="1166000" />
+      <workItem from="1599482581428" duration="120000" />
+      <workItem from="1599558652218" duration="3007000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599047060360">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599047060360" />
-    <state x="667" y="224" width="585" height="616" key="find.popup" timestamp="1599138160626">
+    <state x="294" y="239" width="585" height="616" key="find.popup" timestamp="1599468049060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="224" width="585" height="616" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599138160626" />
+    <state x="294" y="239" width="585" height="616" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599468049060" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1599138918459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
