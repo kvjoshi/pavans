@@ -8,5 +8,33 @@
 */
 
 .bg-pav{
-    background-color: #eb6e04;
+    background-color: #f38221 !important;
+    color:#f38221 !important;
+}
+.scrolled .navbar-dark{
+    background-color: #f38221 !important;
+}
+.navbar[data-sticky="top"].scrolled.navbar-dark{
+
+}
+
+svg.bg-pav * {
+    fill: #f38221; }
+.icon-xl{
+    height: 5rem !important;
+}
+.icon-nav{
+    height: 7rem!important;
+}
+.scrolled .icon-nav{
+    height: 4.5rem!important;
+
+    z-index: 2!important;
+}
+
+@media (max-width: 800px) {
+    .icon-nav{
+        height: 3rem!important;
+    }
+
 }
