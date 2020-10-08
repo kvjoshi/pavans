@@ -31,10 +31,18 @@ svg.bg-pav * {
 
     z-index: 2!important;
 }
+.cust_map{
+    height:250px;
+    width: 600px;
+}
 
 @media (max-width: 800px) {
     .icon-nav{
         height: 3rem!important;
+    }
+    .cust_map{
+        height:250px;
+        width: 300px;
     }
 
 }
