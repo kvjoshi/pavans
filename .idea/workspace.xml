@@ -20,8 +20,90 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e5ec8c12-c85d-4bc6-a9b1-196e9ea77e42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/js/lazysizes.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-company.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-company.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/EPFO_official_logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/NCC.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/ncc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/atmiya.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/atmiya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/den.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/den.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/elsamex.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/elsamex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/esic.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/esic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/field.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/field.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gidc.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gidc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/gokul.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/gokul.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/iso9001.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/iso9001.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/msme.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/msme.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/output-onlinepngtools.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/psara.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/psara.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/psis.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/psis.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/shanti_hosp.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/shanti_hosp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/shilpa.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/shilpa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/tn_rao.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/tn_rao.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/10.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/12.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/13.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/14.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/15.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/16.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/17.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/18.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/19.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/20.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/21.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/5.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/5.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/6.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/6.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/6.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/8.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/9.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0714.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0717.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0733.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0735.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0769.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0774.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0785.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0796.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/DSC_0803.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/IMG-20191230-WA0000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/IMG-20200126-WA0001.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/IMG-20200624-WA0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/IMG-20200625-WA0002.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/IMG-20200702-WA0000.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/IMG-20200702-WA0010.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/bg1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/p1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/p1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/p2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/p2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/p3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/p3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/p4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/p4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/p5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/p5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/photo/sec_campus.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/photo/sec_campus.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slider/s1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/slider/s1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slider/s2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/slider/s2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slider/s3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/slider/s3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slider/s4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/slider/s4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slider/s5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/slider/s5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slider/s6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/slider/s6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/slider/s7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/slider/s7.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/video/Video Source Download Links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/video/video-1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/video/video-1.ogv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/video/video-1.webm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact1.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/why-choose-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/why-choose-us.html" afterDir="false" />
@@ -36,6 +118,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
@@ -64,7 +147,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/js" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,6 +162,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\pavans\assets\js" />
       <recent name="E:\xampp\htdocs\pavans" />
     </key>
   </component>
@@ -104,7 +188,8 @@
       <workItem from="1601983812345" duration="1936000" />
       <workItem from="1602067024850" duration="2174000" />
       <workItem from="1602149448496" duration="11360000" />
-      <workItem from="1602173143469" duration="2356000" />
+      <workItem from="1602173143469" duration="3135000" />
+      <workItem from="1602183794771" duration="3078000" />
     </task>
     <task id="LOCAL-00001" summary="map fix">
       <created>1602173457580</created>
@@ -127,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602175367602</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fix">
+      <created>1602175957706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602175957706</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,25 +240,30 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="map fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="map fix" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="573" y="88" key="CommitChangelistDialog2" timestamp="1602175366640">
+    <state x="573" y="88" key="CommitChangelistDialog2" timestamp="1602175956662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="573" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602175366640" />
+    <state x="573" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602175956662" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601909598901">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601909598901" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602175371793">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602176025419">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602175371793" />
-    <state x="294" y="239" width="650" height="706" key="find.popup" timestamp="1602173842167">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602176025419" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602176006554">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="294" y="239" width="650" height="706" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602173842167" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602176006554" />
+    <state x="294" y="239" width="650" height="706" key="find.popup" timestamp="1602185990757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="294" y="239" width="650" height="706" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1602185990757" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1599138918459">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

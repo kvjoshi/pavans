@@ -17,12 +17,38 @@
 .navbar[data-sticky="top"].scrolled.navbar-dark{
 
 }
-
+.hide-small{
+    display:none;
+}
 svg.bg-pav * {
     fill: #f38221; }
 .icon-xl{
     height: 5rem !important;
 }
+@media (max-width: 750px) {
+    #loc1{
+        display: none;
+    }
+    #tel1{
+        display: none;
+    }
+    .booktop{
+        display: none !important;
+    }
+    .bookdown{
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+        background: #682163;
+        z-index: 999;
+        height: 40px;
+        display: block !important;
+    }
+    .hide-small{
+        display:block;
+    }
+}
+
 .icon-nav{
     height: 7rem!important;
 }
@@ -35,7 +61,9 @@ svg.bg-pav * {
     height:250px;
     width: 600px;
 }
-
+.navbar-toggled-show {
+    background: black !important;
+}
 @media (max-width: 800px) {
     .icon-nav{
         height: 3rem!important;
